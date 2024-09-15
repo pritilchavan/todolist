@@ -1,0 +1,33 @@
+/* Custom styles for the TaskForm component */
+.relative {
+    position: relative;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .opacity-30 {
+    opacity: 0.3;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .bg-white {
+  background-color: #ffffff;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .border-gray-200 {
+    border-color: #edf2f7;
+  }
+  
+  .text-gray-800 {
+    color: #ff05de;
+  }
+  
